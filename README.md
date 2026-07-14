@@ -9,7 +9,6 @@ My solutions and notes from the **42 Firenze C Piscine**.
 ### Shell
 - [x] Shell00
 - [ ] Shell01
-- [ ] Shell02
 
 ### C
 - [ ] C00
