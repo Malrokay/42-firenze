@@ -1,16 +1,18 @@
 # 42 Firenze – C Piscine
 
-My solutions and notes from the **42 Firenze C Piscine**.
+Repository containing my work throughout the **42 Firenze C Piscine**.
 
-> Learning repository documenting my progress through the Shell and C projects.
+> *"We all segfault sometimes."*
 
-## Progress
+---
+
+## 📚 Projects
 
 ### Shell
 - [x] Shell00
 - [ ] Shell01
 
-### C
+### C Piscine
 - [ ] C00
 - [ ] C01
 - [ ] C02
@@ -26,23 +28,47 @@ My solutions and notes from the **42 Firenze C Piscine**.
 - [ ] C12
 - [ ] C13
 
+### Rush
+- [ ] Rush00
+- [ ] Rush01
+- [ ] Rush02
+- [ ] Rush03
+
+### Special Projects
+- [ ] BSQ
+
+### Exams
+- [ ] Exam00
+- [ ] Exam01
+- [ ] Exam02
+- [ ] Final Exam
+
+---
+
 ## Repository Structure
 
-```
+```text
 42-firenze/
 ├── Shell00/
 ├── Shell01/
 ├── C00/
 ├── C01/
-└── ...
+├── ...
+├── Rush00/
+├── Rush01/
+├── Rush02/
+├── Rush03/
+├── BSQ/
+├── Exam00/
+├── Exam01/
+├── Exam02/
+└── FinalExam/
 ```
-
-## Philosophy
-
-The goal of this repository is to document my learning journey through the 42 Piscine.
-
-Solutions are intentionally kept simple, following the project specifications and the Unix philosophy of solving problems by combining small, focused tools.
 
 ---
 
-*"We all segfault sometimes."*
+## Notes
+
+This repository documents my progress through the 42 Firenze Piscine.
+
+Projects are committed as I complete them while following the official subject requirements.
