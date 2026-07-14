@@ -1,23 +1,23 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_print_alphabet.c                                :+:      :+:    :+:   */
+/*   ft_print_numbers.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: crpetrut <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/07/14 13:14:16 by crpetrut          #+#    #+#             */
-/*   Updated: 2026/07/14 17:55:47 by crpetrut         ###   ########.fr       */
+/*   Created: 2026/07/14 14:58:17 by crpetrut          #+#    #+#             */
+/*   Updated: 2026/07/14 17:11:44 by crpetrut         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-void	ft_print_alphabet(void)
+void	ft_print_numbers(void)
 {
 	char	c;
 
-	c = 'a';
-	while (c <= 'z')
+	c = '0';
+	while (c <= '9')
 	{
 		write(1, &c, 1);
 		c++;
