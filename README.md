@@ -10,7 +10,7 @@ Repository containing my work throughout the **42 Firenze C Piscine**.
 
 ### Shell
 - [x] Shell00
-- [ ] Shell01
+- [x] Shell01
 
 ### C Piscine
 - [ ] C00
